@@ -1,6 +1,12 @@
 {
-  "count": 0,
-  "checked_at": "2026-08-26T10:01:02.040367+00:00",
+  "count": 1,
+  "checked_at": "2026-08-26T10:54:44.006226+00:00",
   "target": "https://www.reddit.com/r/all/hot.json",
-  "proxies": []
+  "proxies": [
+    {
+      "proxy": "103.147.118.67:8080",
+      "protocol": "http",
+      "latency_ms": 5235
+    }
+  ]
 }
